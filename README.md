@@ -10,6 +10,7 @@ Order placement and tracking
 Payment handling
 Data integrity using constraints
 Reports using SQL queries
+
 🗂️ Database Structure
 
 Main tables:

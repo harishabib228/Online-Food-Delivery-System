@@ -1,10 +1,10 @@
-*🍔 Online Food Ordering System*
+**🍔 Online Food Ordering System**
 
-*📌 Overview*
+**📌 Overview**
 
 This project is a Database Management System (DBMS) application developed using Oracle SQL. It simulates an online food ordering platform where customers can place orders, and restaurants can manage menus and payments.
 
-*🎯 Features*
+**🎯 Features**
 
 - Customer, restaurant, and menu management
 - Order placement and tracking
@@ -12,7 +12,7 @@ This project is a Database Management System (DBMS) application developed using 
 - Data integrity using constraints
 - Reports using SQL queries
 
-*🗂️ Database Structure*
+**🗂️ Database Structure**
 
 Main tables:
 
@@ -25,7 +25,7 @@ Main tables:
 
 The database is normalized up to 3NF and uses primary keys, foreign keys, and constraints.
 
-*🔍 SQL Concepts Used*
+**🔍 SQL Concepts Used**
 
 - Joins
 - Subqueries
@@ -33,13 +33,13 @@ The database is normalized up to 3NF and uses primary keys, foreign keys, and co
 - Views, indexes
 - Stored procedures and triggers
 
-*🚀 How to Run*
+**🚀 How to Run**
 
 - Execute CREATE TABLE queries
 - Insert sample data
 - Run SQL queries
 
-*👨‍💻 Author*
+**👨‍💻 Author**
 
 
-*Muhammad Haris Habib*
+**Muhammad Haris Habib**
